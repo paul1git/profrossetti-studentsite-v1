@@ -1,3 +1,5 @@
+Hello I'm a student
+
 # student-site
 
 An example student website, hosted by [GitHub Pages](https://pages.github.com/).
